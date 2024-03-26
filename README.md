@@ -1,6 +1,6 @@
 # AuctionFinanceX
 
-![AuctionFinanceX Logo](/src/assets/AuctionFinanceX.png "AuctionFinanceX Logo")
+![AuctionFinanceX Logo](/src/assets/AuctionFinanceX.jpeg "AuctionFinanceX Logo")
 
 This is an ERC-404 launchpad to enpower creators and Web3 enthusiasts to build their tokens in a fastest way.
 
