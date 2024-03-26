@@ -1,6 +1,6 @@
-# Arror
+# AuctionFinanceX
 
-![Arror Logo](/src/assets/arror.png "Arror Logo")
+![AuctionFinanceX Logo](/src/assets/AuctionFinanceX.png "AuctionFinanceX Logo")
 
 This is an ERC-404 launchpad to enpower creators and Web3 enthusiasts to build their tokens in a fastest way.
 
