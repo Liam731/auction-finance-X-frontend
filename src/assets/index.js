@@ -94,6 +94,8 @@ import body from "./body.jpg";
 import loading2 from "./loading2.gif";
 import lighting from "./lighting.gif";
 import amm from "./amm.png";
+import SToken from "./SToken.png"
+import Coin from "./Coin.gif"
 
 export {
   brainwave,
@@ -183,4 +185,6 @@ export {
   loading2,
   lighting,
   amm,
+  SToken,
+  Coin,
 };

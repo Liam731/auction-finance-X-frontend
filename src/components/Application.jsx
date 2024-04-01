@@ -26,7 +26,7 @@ const Application = () => {
   };
 
   return (
-    <Section id="launchpad" className="overflow-hidden">
+    <Section id="lending pool2" className="overflow-hidden">
       <div className="container md:pb-10 py-8">
         <Heading tag="Ready to go" title="Let's create your first ERC-404" />
         <div className="relative grid gap-6 md:grid-cols-2 md:gap-4 md:pb-[7rem]">
@@ -107,7 +107,7 @@ const Application = () => {
             </div>
           </div>
 
-          <div className="md:flex even:md:translate-y-[7rem] p-0.25 rounded-[2.5rem] bg-n-6">
+          <div className="md:flex even:md:translate-y p-0.25 rounded-[2.5rem] bg-n-6">
             <div className="relative p-8 bg-n-8 rounded-[2.4375rem] overflow-hidden xl:p-15">
               <div className="absolute top-0 left-0 max-w-full">
                 <img

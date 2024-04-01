@@ -1,4 +1,6 @@
 import Application from "./components/Application";
+import LendingPool from "./components/lending_pool/LendingPool";
+import DutchAuction from "./components/dutch_auction/DutchAuction";
 import ButtonGradient from "./assets/svg/ButtonGradient";
 import Benefits from "./components/Benefits";
 import Collaboration from "./components/Collaboration";
@@ -14,12 +16,14 @@ const App = () => {
       <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden ">
         <Header />
         <Hero />
-        <Benefits />
+        {/* <Benefits />
         <Collaboration />
         <Services />
-        <Application />
-        <Roadmap />
-        <Footer />
+        <Application /> */}
+        <LendingPool />
+        <DutchAuction />
+        {/* <Roadmap />
+        <Footer /> */}
       </div>
       <ButtonGradient />
     </>

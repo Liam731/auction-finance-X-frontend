@@ -64,13 +64,13 @@ export const navigation = [
   },
   {
     id: "3",
-    title: "Launchpad",
-    url: "#launchpad",
+    title: "lending pool",
+    url: "#lending pool",
   },
   {
     id: "4",
-    title: "Roadmap",
-    url: "#roadmap",
+    title: "dutch auction",
+    url: "#dutch auction",
   },
   {
     id: "5",
