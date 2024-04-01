@@ -1,6 +1,5 @@
 # AuctionFinanceX
 
-![AuctionFinanceX Logo](/src/assets/AuctionFinanceX.jpeg "AuctionFinanceX Logo")
 
 
 # Get Started
