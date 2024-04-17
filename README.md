@@ -17,7 +17,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
+This repository contains the smart contracts source code and NFT Lending mechanism for the Dauth Action website, developed using React.js and Tailwind CSS, which exemplifies modern UI/UX principles.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
