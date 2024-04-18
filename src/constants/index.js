@@ -47,21 +47,21 @@ import {
 } from "../assets";
 
 export const navigation = [
-  {
-    id: "0",
-    title: "Features",
-    url: "#features",
-  },
-  {
-    id: "1",
-    title: "Ecosystem",
-    url: "#ecosystem",
-  },
-  {
-    id: "2",
-    title: "Service",
-    url: "#service",
-  },
+  // {
+  //   id: "0",
+  //   title: "Features",
+  //   url: "#features",
+  // },
+  // {
+  //   id: "1",
+  //   title: "Ecosystem",
+  //   url: "#ecosystem",
+  // },
+  // {
+  //   id: "2",
+  //   title: "Service",
+  //   url: "#service",
+  // },
   {
     id: "3",
     title: "lending pool",

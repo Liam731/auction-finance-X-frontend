@@ -165,7 +165,7 @@ const Liquidate = () => {
           disabled={!approve || isPending}
           onClick={approve}
         >
-          {isPending ? "Confirming..." : "Repay"}
+          {isPending ? "Confirming..." : "Liquidate"}
           {isApproveConfirming ? " : Waiting for transaction..." : ""}
         </Button>
         <SnackbarProvider
